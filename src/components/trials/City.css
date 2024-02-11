@@ -1,0 +1,8 @@
+/* * {
+  outline: 1px dotted;
+} */
+
+.CityImg {
+  max-height: 300px;
+  object-fit: cover;
+}

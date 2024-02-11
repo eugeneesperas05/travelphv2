@@ -1,0 +1,12 @@
+.sixContainer {
+  max-height: 50%;
+}
+
+.sixImage img {
+  max-height: 50vh;
+  object-fit: cover;
+}
+
+.sixText text {
+  max-height: 50vh;
+}

@@ -1,0 +1,48 @@
+.label {
+  color: rgb(0, 57, 245);
+}
+
+.details {
+  margin-top: 7%;
+}
+
+.forms input {
+  width: 100%;
+}
+
+.message {
+  height: 150px;
+}
+
+.submit {
+  width: 80px;
+  height: 40px;
+  border: none;
+  background-color: blue;
+  border-radius: 15px;
+  float: right;
+}
+
+.contactusform {
+  padding: 15px;
+  border-radius: 15px;
+  border: 1px solid black;
+}
+
+.map {
+  border-radius: 15px;
+}
+
+.contactcontainer p {
+  font-size: larger;
+}
+
+.mapcont {
+  border-radius: 15px;
+}
+
+@media only screen and (max-width: 770px) {
+  .contactcontainer {
+    padding: 10px;
+  }
+}
